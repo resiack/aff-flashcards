@@ -1,0 +1,422 @@
+{
+  "id": "category_a",
+  "title": "Category A (Arch)",
+  "simEdition": "2026 USPA SIM",
+  "disclaimer": "This deck is a study aid for practicing recall of Category A ground school material. It is not a substitute for training from a certified USPA instructor or for the current official USPA Skydiver's Information Manual (SIM). Always verify procedures with your instructor and the current SIM.",
+  "topics": [
+    {
+      "id": "equipment_altitude",
+      "title": "Equipment & Altitude Awareness",
+      "cards": [
+        {
+          "id": "cat-a-equip-001",
+          "front": "What three handles are on a student rig, and what does each one do?",
+          "back": "• Main deployment handle: opens the main parachute\n• Cutaway handle: releases the main parachute in an emergency\n• Reserve handle: deploys the reserve parachute",
+          "simPage": 12
+        },
+        {
+          "id": "cat-a-equip-002",
+          "front": "What are the three stages a parachute goes through when it opens?",
+          "back": "• Activation: throwing the pilot chute, pulling the ripcord, or via static line\n• Deployment: the parachute leaves the container\n• Inflation: the canopy fills with air",
+          "simPage": 13
+        },
+        {
+          "id": "cat-a-equip-003",
+          "front": "What does the reserve static line (RSL) do, and can you rely on it instead of pulling your handles?",
+          "back": "It connects the main risers to the reserve pin, so cutting away the main automatically starts reserve deployment. It's a backup only. Pulling your own handles in a malfunction is always your job.",
+          "simPage": 13
+        },
+        {
+          "id": "cat-a-equip-004",
+          "front": "What does an automatic activation device (AAD) do, and is it something you can count on instead of pulling?",
+          "back": "It initiates reserve deployment at a preset altitude and speed. Like the RSL, it's strictly a backup device. You must still pull your own handles.",
+          "simPage": 13
+        },
+        {
+          "id": "cat-a-equip-005",
+          "front": "When should you check your altimeter in freefall?",
+          "back": "USPA SIM: Every 3 seconds.\nJumptown procedure: Every 5 seconds.\nAlso check after every maneuver or unexpected event.",
+          "simPage": 14
+        },
+        {
+          "id": "cat-a-equip-006",
+          "front": "How many times will your instructor check your equipment on a Category A jump day?",
+          "back": "Four times:\n• Before you put the rig on\n• Immediately after putting it on\n• Before boarding the aircraft\n• Again in the aircraft shortly before exit",
+          "simPage": 14
+        },
+        {
+          "id": "cat-a-equip-007",
+          "front": "What altitude do AFF students initiate deployment at?",
+          "back": "5,500 feet.",
+          "simPage": 10
+        }
+      ]
+    },
+    {
+      "id": "aircraft_emergencies",
+      "title": "Aircraft Procedures & Emergencies",
+      "cards": [
+        {
+          "id": "cat-a-air-001",
+          "front": "How should you approach a fixed wing aircraft on the ground, and who should you be with?",
+          "back": "Approach from the rear, away from the propeller, and always accompanied by your instructor.",
+          "simPage": 14
+        },
+        {
+          "id": "cat-a-air-002",
+          "front": "Who's responsible for making sure you're wearing your seatbelt or restraint during taxi, takeoff, and landing?",
+          "back": "Both the pilot and the jumper share that responsibility under FAA regulations.",
+          "simPage": 14
+        },
+        {
+          "id": "cat-a-air-003",
+          "front": "What's your very first response if the aircraft has an emergency?",
+          "back": "Stay calm and wait for a command from your instructor.",
+          "simPage": 14
+        },
+        {
+          "id": "cat-a-air-004",
+          "front": "What four actions might your instructor direct you to take in an aircraft emergency?",
+          "back": "• Land in the aircraft\n• Exit and use your reserve\n• Exit and use your main\n• Perform a routine exit (with or without instructor assistance)",
+          "simPage": 14
+        },
+        {
+          "id": "cat-a-air-005",
+          "front": "If you're told to land with the aircraft during an emergency, what should you do?",
+          "back": "• Make sure your helmet and seatbelt/restraint are secure\n• Take the safety position your instructor taught you\n• Clasp your hands behind your head to reinforce your neck\n• After landing, unfasten your restraint and exit promptly, walking at least 100 feet from the plane",
+          "simPage": 14
+        },
+        {
+          "id": "cat-a-air-006",
+          "front": "If you exit the aircraft during an emergency, what should you do?",
+          "back": "• Get your parachute open immediately\n• Look for your instructor's canopy and follow it to a clear area (or pick any clear area if you can't find them)\n• Prepare for a PLF",
+          "simPage": 14
+        },
+        {
+          "id": "cat-a-air-007",
+          "front": "A parachute opens accidentally inside the aircraft. What should you do?",
+          "back": "Try to contain it and tell your instructor.\n• If your parachute goes out the door, follow it out immediately\n• If it's someone else's parachute going out the door, push them out through the door right away too\n\nBoth actions prevent injury or damage to the plane.",
+          "simPage": 15
+        }
+      ]
+    },
+    {
+      "id": "exit_freefall",
+      "title": "Exit & Freefall",
+      "cards": [
+        {
+          "id": "cat-a-exit-001",
+          "front": "What are the three parts of a good exit?",
+          "back": "• Setup\n• Launch\n• Flyaway (the transition to belly to earth flight is also called \"the hill\")",
+          "simPage": 15
+        },
+        {
+          "id": "cat-a-exit-002",
+          "front": "What's the AFF check in sequence right before you exit?",
+          "back": "• Call \"Check in!\" to the inside instructor, who responds \"OK!\"\n• Call \"Check out!\" to the outside instructor, who responds \"OK!\"\n• Begin a count such as \"Up, down, arch!\" or \"Out, in, arch!\"\n\nAt Jumptown, the count is \"Prop, up, down, step out, arch!\"",
+          "simPage": 16
+        },
+        {
+          "id": "cat-a-exit-004",
+          "front": "As an AFF student, what should you do if you're unstable right after exit?",
+          "back": "• Check your altitude\n• Arch until the horizon comes flat into view\n• Follow your instructors' signals\n• If you lose one instructor, continue as usual\n• If you lose both, pull immediately",
+          "simPage": 16
+        },
+        {
+          "id": "cat-a-exit-005",
+          "front": "What are the key elements of a neutral, arched body position?",
+          "back": "• Hips forward with back arched\n• Knees about shoulder width apart\n• Legs extended slightly, knees bent 45 degrees, toes pointed\n• Upper arms 90 degrees or less from the torso and relaxed\n• Elbows bent 90 to 120 degrees\n• Chin up",
+          "simPage": 16
+        },
+        {
+          "id": "cat-a-exit-006",
+          "front": "What three things does a \"circle of awareness\" check?",
+          "back": "• Heading: Look at the horizon\n• Altitude: Check the altimeter\n• Instructors: Look to them for signals. Check the reserve side instructor first, then the main side instructor.",
+          "simPage": 17
+        },
+        {
+          "id": "cat-a-exit-007",
+          "front": "What does HAALR stand for, and when do you use it?",
+          "back": "• Heading (look at the horizon)\n• Altitude (most important)\n• Arch (hips forward, chin up)\n• Legs (ensure neutral leg position)\n• Relax (take a deep breath)\n\nThis is the checklist you cycle through for the rest of an AFF freefall after your second circle of awareness.",
+          "simPage": 18
+        },
+        {
+          "id": "cat-a-exit-008",
+          "front": "At what altitude do you lock on to your altimeter, and at what altitude do you wave off (AFF)?",
+          "back": "• Lock on at 6,000 feet and keep watching until you see 5,500 feet\n• Wave off at 5,500 feet",
+          "simPage": 18
+        },
+        {
+          "id": "cat-a-exit-009",
+          "front": "What's the AFF deployment sequence once you reach your pull altitude?",
+          "back": "• Wave off (both arms overhead)\n• Arch\n• Reach\n• Pull",
+          "simPage": 18
+        }
+      ]
+    },
+    {
+      "id": "deployment_pull_priorities",
+      "title": "Deployment & Pull Priorities",
+      "cards": [
+        {
+          "id": "cat-a-deploy-001",
+          "front": "What are your three pull priorities, in order?",
+          "back": "• Pull\n• Pull at altitude\n• Pull, preferably while stable\n\nAltitude always takes priority over stability.",
+          "simPage": 19
+        },
+        {
+          "id": "cat-a-deploy-002",
+          "front": "You're on your back at pull altitude. What do you do?",
+          "back": "Pull. Pulling at the correct altitude matters more than pulling in a stable position.",
+          "simPage": 19
+        },
+        {
+          "id": "cat-a-deploy-003",
+          "front": "You see your instructor pull. What should you do?",
+          "back": "Pull.",
+          "simPage": 19
+        },
+        {
+          "id": "cat-a-deploy-004",
+          "front": "After you pull, what should you do while waiting to confirm the canopy is deploying?",
+          "back": "• Return both hands to the neutral arch position\n• Remain arched and stable with your shoulders level\n• Count to 3 (5 for Jumptown) by 1,000's\n• Visually check for pilot chute and main canopy deployment",
+          "simPage": 19
+        },
+        {
+          "id": "cat-a-deploy-005",
+          "front": "You can't find your main deployment handle. What's the procedure?",
+          "back": "• Feel across the bottom of the container to the corner, then down the side to the corner\n• No more than two tries or 5 seconds, whichever comes first\n• If you still can't find it, start emergency procedures",
+          "simPage": 19
+        },
+        {
+          "id": "cat-a-deploy-006",
+          "front": "You find the handle but it won't pull (a \"hard pull\"). What do you do?",
+          "back": "• Try to throw the pilot chute (no more than two tries or 5 seconds)\n• If that doesn't work, start emergency procedures",
+          "simPage": 19
+        },
+        {
+          "id": "cat-a-deploy-007",
+          "front": "Your pilot chute is stuck in the burble behind your back. How do you clear it?",
+          "back": "• Twist at the waist and look over your shoulder to change the airflow (no more than two tries or 5 seconds)\n• If it still won't launch off your back, start emergency procedures",
+          "simPage": 19
+        },
+        {
+          "id": "cat-a-deploy-008",
+          "front": "The pilot chute's bridle wraps around your arm or leg. What do you do?",
+          "back": "• Arch harder for stability\n• Point the entangled limb up at the sky to try to shake it free (no more than two tries or 5 seconds)\n• If it doesn't clear, start emergency procedures",
+          "simPage": 20
+        },
+        {
+          "id": "cat-a-deploy-009",
+          "front": "Your container opens prematurely in freefall. What's the procedure?",
+          "back": "• Try to locate and deploy the pilot chute (no more than two tries or 5 seconds)\n• If you can't, cut away and deploy the reserve",
+          "simPage": 20
+        }
+      ]
+    },
+    {
+      "id": "canopy_malfunctions",
+      "title": "Canopy Basics & Malfunctions",
+      "cards": [
+        {
+          "id": "cat-a-canopy-001",
+          "front": "With both toggles all the way up, how does the canopy fly? What happens when you pull one toggle down?",
+          "back": "That's full flight, straight ahead at full speed.\n• A small toggle pull gives a gentle turn\n• A bigger pull gives a faster, diving turn",
+          "simPage": 20
+        },
+        {
+          "id": "cat-a-canopy-002",
+          "front": "What are the three canopy check questions you ask right after opening?",
+          "back": "\"Is it there? Is it square? Is it steerable?\"\n\nAt Jumptown, this is taught as four words: \"there / square / stable / steerable.\"",
+          "simPage": 21
+        },
+        {
+          "id": "cat-a-canopy-003",
+          "front": "What does \"square\" mean when checking your canopy?",
+          "back": "• Four well defined edges forming a rectangular shape\n• Suspension lines cascading down in four neat groups to the risers\n• Slider down to the tops of the risers\n• Flying level and stable, not turning or spinning",
+          "simPage": 21
+        },
+        {
+          "id": "cat-a-canopy-004",
+          "front": "How do you perform the steerability part of your canopy check?",
+          "back": "• Unstow your toggles and confirm straight flight\n• Flare fully and smoothly return to full flight to check braking\n• Turn right at least 90 degrees, then return to full flight\n• Turn left at least 90 degrees, then return to full flight",
+          "simPage": 21
+        },
+        {
+          "id": "cat-a-canopy-005",
+          "front": "What is \"decision altitude\" for a student, and what does it mean?",
+          "back": "2,500 feet: the lowest altitude by which you must decide whether your canopy is safe to land. If it's not, you must immediately start emergency procedures.",
+          "simPage": 21
+        },
+        {
+          "id": "cat-a-canopy-006",
+          "front": "You have line twists after opening. What's the priority?",
+          "back": "Clear line twists first, before addressing anything else:\n• Spread the risers and kick\n• Release the brakes only after the twists are cleared",
+          "simPage": 22
+        },
+        {
+          "id": "cat-a-canopy-012",
+          "front": "Besides line twists, what other minor canopy opening problems might you see, and how do you usually fix them?",
+          "back": "• End cells that stay closed\n• A slider that stays up near the canopy\n• An unintended turn\n\nUnlike line twists, you can usually solve these with a canopy control check.\n\nIf the problem continues or gets worse, initiate your emergency procedures by 2,500 feet. If in doubt, initiate your emergency procedures.",
+          "simPage": 22
+        },
+        {
+          "id": "cat-a-canopy-007",
+          "front": "What is the \"cutaway hard deck,\" and what do you do below it?",
+          "back": "1,000 feet: below this altitude it's too low to safely cut away. Instead, you deploy the reserve and land both canopies.",
+          "simPage": 22
+        },
+        {
+          "id": "cat-a-canopy-008",
+          "front": "Above your hard deck, what's the malfunction procedure?",
+          "back": "• Confirm you're above 1,000 feet\n• Cut away\n• Pull your reserve",
+          "simPage": 22
+        },
+        {
+          "id": "cat-a-canopy-009",
+          "front": "You have a biplane (two canopies out) situation. What do you do?",
+          "back": "Land both canopies.\n• Leave toggles stowed unless the toggles on one canopy are already unstowed (then unstow the other)\n• Gently steer the front canopy using its rear risers\n• Land without flaring and perform a PLF",
+          "simPage": 23
+        },
+        {
+          "id": "cat-a-canopy-013",
+          "front": "You have a side by side (two canopies out) situation. What do you do?",
+          "back": "Land both canopies.\n• Leave toggles stowed unless the toggles on one canopy are already unstowed (then unstow the other)\n• Gently steer whichever canopy is more directly overhead, using its rear risers\n• Land without flaring and perform a PLF",
+          "simPage": 23
+        },
+        {
+          "id": "cat-a-canopy-010",
+          "front": "You have a downplane. What makes this malfunction different, and what must you do?",
+          "back": "You must cut away regardless of altitude. This is the only exception to the cutaway hard deck rule at 1,000 feet.",
+          "simPage": 23
+        },
+        {
+          "id": "cat-a-canopy-011",
+          "front": "What should you do in a main/reserve entanglement?",
+          "back": "Land both canopies.\n• Never give up trying to clear the entanglement or get the parachutes to inflate\n• Do your best to fly straight for landing and perform a PLF",
+          "simPage": 23
+        }
+      ]
+    },
+    {
+      "id": "canopy_flight_landing",
+      "title": "Canopy Flight & Landing Pattern",
+      "cards": [
+        {
+          "id": "cat-a-land-001",
+          "front": "After confirming you have a good canopy, what should you do next, and by what altitude should you reach your holding area?",
+          "back": "• Check your altitude and locate the airport and holding area\n• Arrive at or above 2,000 feet to be positioned to enter your landing pattern correctly",
+          "simPage": 24
+        },
+        {
+          "id": "cat-a-land-008",
+          "front": "How should you respond to canopy traffic and a potential collision?",
+          "back": "• Regularly check APT: Altitude, Position, Traffic throughout canopy flight\n• If a collision is imminent, both jumpers should generally steer right\n• If you collide and become entangled, communicate your intentions before acting\n• If you remain entangled below 1,000 feet and the canopies are uncontrollable, both jumpers deploy their reserves",
+          "simPage": 24
+        },
+        {
+          "id": "cat-a-land-002",
+          "front": "What are the three legs of a standard landing pattern, and around what altitudes do they start?",
+          "back": "• Downwind: starts around 900 feet, at the pattern entry point\n• Base: around 600 feet\n• Final: around 300 feet",
+          "simPage": 24
+        },
+        {
+          "id": "cat-a-land-003",
+          "front": "What are your landing priorities, in order?",
+          "back": "• Land with a level wing\n• Land in a clear, open area\n• Flare and perform a PLF",
+          "simPage": 25
+        },
+        {
+          "id": "cat-a-land-004",
+          "front": "Is landing into the wind one of your official landing priorities?",
+          "back": "No. It's desirable, but it is not one of the actual landing priorities.",
+          "simPage": 25
+        },
+        {
+          "id": "cat-a-land-009",
+          "front": "If you realize you're going to land downwind, what should you do?",
+          "back": "Continue straight with a level wing, flare normally, and prepare for a PLF instead of attempting a low turn to correct into the wind. Low turns close to the ground are dangerous.",
+          "simPage": 11
+        },
+        {
+          "id": "cat-a-land-005",
+          "front": "When should you start your flare, and when should you finish it?",
+          "back": "• Start when your feet are roughly twice your height above the ground\n• Finish (toggles all the way down) when your feet are about one to three feet above the ground",
+          "simPage": 25
+        },
+        {
+          "id": "cat-a-land-006",
+          "front": "What happens if you let the toggles back up abruptly after starting your flare?",
+          "back": "It causes a steep dive toward the ground, known as a \"flight cycle.\" Once you start a flare you can stop and hold, but you can't undo it and start over.",
+          "simPage": 26
+        },
+        {
+          "id": "cat-a-land-007",
+          "front": "What's the correct PLF (parachute landing fall) sequence?",
+          "back": "Feet touch down first, then roll:\n• Balls of the feet\n• To the calf\n• To the thigh\n• Through the small of the back\n• Diagonally across to the opposite shoulder, continuing to roll to spread out the impact",
+          "simPage": 26
+        }
+      ]
+    },
+    {
+      "id": "obstacle_landings",
+      "title": "Obstacle & Alternate Landings",
+      "cards": [
+        {
+          "id": "cat-a-obs-001",
+          "front": "By what altitude should you decide whether you need an alternate landing area?",
+          "back": "By 2,000 feet, decide whether you can reach the pattern entry point at 900 feet:\n• If not, aim for the point at 600 feet or 300 feet that you can reach\n• If none are reachable, plan to land in the nearest open, obstacle free area (which might even be behind you)",
+          "simPage": 27
+        },
+        {
+          "id": "cat-a-obs-002",
+          "front": "When is it easiest to spot ground obstacles before landing?",
+          "back": "During the downwind leg, since you're closer to the ground.",
+          "simPage": 27
+        },
+        {
+          "id": "cat-a-obs-003",
+          "front": "What's the procedure for landing in water?",
+          "back": "• Flare and PLF in case it's shallow\n• After landing, try to stand up\n• If you can't touch bottom, swim out of your gear and leave it behind",
+          "simPage": 28
+        },
+        {
+          "id": "cat-a-obs-004",
+          "front": "What's the procedure for landing in trees?",
+          "back": "• Keep your arms close and legs together\n• Use a half flare entering the tree\n• Be ready to finish your flare and PLF if you drop to the ground\n• If you end up suspended, hold on, wait for help, and don't try to climb down",
+          "simPage": 28
+        },
+        {
+          "id": "cat-a-obs-005",
+          "front": "You're landing on a rooftop. What's the procedure?",
+          "back": "• Flare and PLF\n• Disconnect the RSL if you can and cut away\n• Wait for help, and don't attempt to climb down",
+          "simPage": 28
+        },
+        {
+          "id": "cat-a-obs-006",
+          "front": "You're headed into the side of a building. What should you do?",
+          "back": "• Preparing: Prepare for a PLF, and turn the canopy slightly to strike a glancing blow\n• Landing: Half flare, then PLF against the building\n• After: As you drop to the ground, finish the flare and PLF",
+          "simPage": 28
+        },
+        {
+          "id": "cat-a-obs-007",
+          "front": "What's the procedure for landing near or in power lines?",
+          "back": "• Drop any handles\n• Flare and PLF, touching no more than one wire at a time\n• Your parachute can conduct electricity. If suspended in the wires, do NOT cut away; wait for qualified personnel to confirm the power is off\n• If your feet reach the ground, disconnect the RSL and cut away, leaving the main behind",
+          "simPage": 28
+        }
+      ]
+    },
+    {
+      "id": "dive_flow",
+      "title": "Full Dive Flow",
+      "cards": [
+        {
+          "id": "cat-a-flow-001",
+          "front": "What's the complete AFF dive flow, from exit to canopy check?",
+          "back": "• Safe exit\n• Circle of awareness (COA)\n• Three practice deployments\n• Second circle of awareness (COA)\n• HAALR\n• 6,000 feet: lock on\n• 5,500 feet: wave off and pull\n• Canopy check: APT",
+          "simPage": 29
+        }
+      ]
+    }
+  ]
+}

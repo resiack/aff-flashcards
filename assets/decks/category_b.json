@@ -1,0 +1,164 @@
+{
+  "id": "category_b",
+  "title": "Category B (Basics)",
+  "simEdition": "2026 USPA SIM",
+  "disclaimer": "This deck is a study aid for practicing recall of Category B material. It is not a substitute for training from a certified USPA instructor or for the current official USPA Skydiver's Information Manual (SIM). Always verify procedures with your instructor and the current SIM.",
+  "topics": [
+    {
+      "id": "freefall_refinement",
+      "title": "Freefall Refinement",
+      "cards": [
+        {
+          "id": "cat-b-freefall-001",
+          "front": "In Category B, what should you specifically check for the \"arch\" and \"legs\" parts of HAALR?",
+          "back": "• Arch: make sure your hips are forward a little\n• Legs: most beginners need to extend their legs a little and point their toes",
+          "simPage": 31
+        },
+        {
+          "id": "cat-b-freefall-002",
+          "front": "How do you move forward in freefall, and how long should you hold it during practice?",
+          "back": "Extend your legs with your toes pointed while keeping your arms in a neutral position. Practice by holding the extension for about three seconds, then relaxing back to neutral.",
+          "simPage": 32
+        },
+        {
+          "id": "cat-b-freefall-003",
+          "front": "How do you maintain a stable heading in freefall?",
+          "back": "Relax in a neutral body position and pick a point ahead on the horizon as a heading reference.",
+          "simPage": 32
+        },
+        {
+          "id": "cat-b-freefall-004",
+          "front": "What are \"team turns,\" and when will you use this skill more?",
+          "back": "Intentional freefall turns you perform together with your instructor. You'll build on this skill to help maintain your freefall heading in Category C.",
+          "simPage": 32
+        },
+        {
+          "id": "cat-b-freefall-005",
+          "front": "In Category B, how close to your assigned altitude must you initiate deployment (AFF)?",
+          "back": "Within 500 feet of your assigned altitude, tighter than Category A's window of 1,000 feet.",
+          "simPage": 30
+        },
+        {
+          "id": "cat-b-freefall-006",
+          "front": "About how many feet does it take from wave off to actual deployment, and why?",
+          "back": "Approximately 500 feet. That's the distance it takes to wave off, reach, and pull.",
+          "simPage": 31
+        }
+      ]
+    },
+    {
+      "id": "canopy_navigation",
+      "title": "Canopy Navigation & Wind",
+      "cards": [
+        {
+          "id": "cat-b-canopy-001",
+          "front": "What's the difference between \"ground track\" and \"ground speed\"?",
+          "back": "• Ground track: the actual path you travel over the ground, based on your canopy's heading and wind effects\n• Ground speed: the actual speed you travel across the ground, based on your canopy's airspeed and wind effects",
+          "simPage": 33
+        },
+        {
+          "id": "cat-b-canopy-002",
+          "front": "What does \"running\" mean under canopy, and what does it do to your ground speed?",
+          "back": "Flying directly with the wind at your back. It increases your ground speed.",
+          "simPage": 33
+        },
+        {
+          "id": "cat-b-canopy-003",
+          "front": "What does \"holding\" mean under canopy, and what does it do to your ground speed?",
+          "back": "Flying directly into the wind. It decreases your ground speed.",
+          "simPage": 33
+        },
+        {
+          "id": "cat-b-canopy-004",
+          "front": "What is crosswind drift?",
+          "back": "When wind pushes your canopy from the side, causing your ground track to differ from the direction you're facing. This can push you off your desired course.",
+          "simPage": 33
+        },
+        {
+          "id": "cat-b-canopy-005",
+          "front": "What is \"crabbing,\" and what's it used for?",
+          "back": "Angling into the wind, using a wind correction angle, to correct crosswind drift and put your ground track back on your desired course.",
+          "simPage": 33
+        }
+      ]
+    },
+    {
+      "id": "flight_cycle",
+      "title": "Flight Cycle",
+      "cards": [
+        {
+          "id": "cat-b-flight-001",
+          "front": "What is a \"flight cycle,\" precisely?",
+          "back": "The parachute's response during the period of time between an input (like a toggle input) and the parachute's return to stabilized full flight.",
+          "simPage": 33
+        },
+        {
+          "id": "cat-b-flight-002",
+          "front": "What happens physically during a flight cycle?",
+          "back": "The parachute dives and speeds up beyond full flight, the jumper swings back behind the parachute, then the parachute slows as the jumper swings forward underneath it and it returns to full flight.",
+          "simPage": 34
+        },
+        {
+          "id": "cat-b-flight-003",
+          "front": "Why is a flight cycle dangerous if it happens just before or during your flare?",
+          "back": "The parachute dives forward and picks up speed, which greatly reduces the effectiveness of your flare. If you realize your flare started too high, stop and hold, then finish forcefully once you're closer to the ground.",
+          "simPage": 34
+        }
+      ]
+    },
+    {
+      "id": "emergency_procedure_refinements",
+      "title": "Emergency Procedure Refinements",
+      "cards": [
+        {
+          "id": "cat-b-ep-001",
+          "front": "In Category B, what added technique helps with a hard pull?",
+          "back": "Place your elbow against the container for leverage while trying to throw the pilot chute. If you still can't throw it after two tries or 5 seconds, initiate emergency procedures.",
+          "simPage": 35
+        },
+        {
+          "id": "cat-b-ep-002",
+          "front": "For a pilot chute hesitation, which shoulder do you try looking over first, and what if that doesn't work?",
+          "back": "Modify the airflow by twisting slightly and looking over your right shoulder first. If that doesn't clear it, repeat looking over your left shoulder. If it still doesn't launch after two tries or 5 seconds, initiate emergency procedures.",
+          "simPage": 35
+        },
+        {
+          "id": "cat-b-ep-003",
+          "front": "Why should you keep your movement in the aircraft minimal and careful?",
+          "back": "To help protect your gear from a premature container opening.",
+          "simPage": 35
+        }
+      ]
+    },
+    {
+      "id": "regulations_wind_limits",
+      "title": "Regulations & Wind Limits",
+      "cards": [
+        {
+          "id": "cat-b-reg-001",
+          "front": "What's the standard student wind limit, and can it be adjusted?",
+          "back": "14 mph, waiverable by your S&TA (Safety and Training Advisor).",
+          "simPage": 36
+        },
+        {
+          "id": "cat-b-reg-002",
+          "front": "What's the minimum required deployment altitude for students and USPA A license holders?",
+          "back": "3,000 feet, per the Basic Safety Requirements.",
+          "simPage": 36
+        },
+        {
+          "id": "cat-b-reg-003",
+          "front": "What should you keep in mind about airport traffic when flying your canopy?",
+          "back": "Respect runways and aircraft landing patterns. Normal flight practices separate aircraft traffic from parachute traffic, but your drop zone will also have its own specific policies.",
+          "simPage": 36
+        },
+        {
+          "id": "cat-b-reg-004",
+          "front": "What does S&TA stand for, and what's their role?",
+          "back": "Safety and Training Advisor, an appointed USPA position usually held by a highly experienced instructor who represents your USPA Regional Director and provides advice and administrative assistance to members.",
+          "simPage": 36
+        }
+      ]
+    }
+  ]
+}
